@@ -4,6 +4,20 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=liudix&show_icons=true)
 
-
-> Any fool can write code that a computer can understand. Good programmers write code that humans can understand
-- Martin Fowler
+```
+         _.-'~~~~~~`-._                                                    
+        /      ||      \                                                   
+       /       ||       \      
+      |        ||        |                                  
+      | _______||_______ |                                                 
+      |/ ----- \/ ----- \|                                                 
+     /  (     )  (     )  \                                                
+    / \  ----- () -----  / \                                               
+   /   \      /||\      /   \                                              
+  /     \    /||||\    /     \   
+ /       \  /||||||\  /       \                                            
+/_        \o========o/        _\                                           
+  `--...__|`-._  _.-'|__...--'                                             
+          |    `'    |         
+```
+> Be careful not to choke on your aspirations
