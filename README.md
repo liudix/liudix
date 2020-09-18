@@ -1,8 +1,8 @@
-### Hi there 👋
+### Greetings
+
+Python, C++, PowerShell, PowerCLI, Bash, Docker, vSphere 
 
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=liudix&show_icons=true)
 
 ```
          _.-'~~~~~~`-._                                                    
@@ -21,3 +21,7 @@
           |    `'    |         
 ```
 > Be careful not to choke on your aspirations
+
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=liudix&show_icons=true)
